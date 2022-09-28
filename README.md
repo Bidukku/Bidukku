@@ -1,4 +1,4 @@
-🔭 I’m learning Low Level Stuff!
+🔭 I’m learning Sofware Development!
 🌱 I’m learning low level 🧰 stuff ... 👨‍💻.
 👋 I try to share what I have learnt along the way.
 🥅 Main Goal: Programming, Learn and Contribute to my community
