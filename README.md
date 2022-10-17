@@ -1,2 +1,2 @@
-🔭 I’m student ALX - Software Engineering Programme
+🔭 I’m student of ALX - Software Engineering Programme
 
